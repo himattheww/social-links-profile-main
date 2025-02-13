@@ -49,7 +49,7 @@ body {
 }
 
 .profile-location {
-    color: var(--color-white);
+    color: var(--color-green);
     font-weight: 600;
     margin-bottom: 1rem;
 }
